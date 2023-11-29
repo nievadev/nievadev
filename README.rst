@@ -1,4 +1,4 @@
-Hello! I make a living as a software engineer.
+Hello! I make a living as a software developer.
 ----------------------------------------------
 
 LinkedIn_
